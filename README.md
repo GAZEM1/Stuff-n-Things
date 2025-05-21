@@ -1,0 +1,1 @@
+Stuff 'n' Things is a New Zealand-based provider of intelligent, automated trading solutions. We specialize in delivering innovative trading bots designed to optimize performance across a variety of markets. Our mission is to empower traders with reliable, data-driven automation tools that simplify trading and enhance profitability.
